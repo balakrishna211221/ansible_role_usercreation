@@ -1,0 +1,11 @@
+---
+users:
+    - username: addagatla.balakrishna
+      use_sudo: yes
+
+#    - username: addagatla.balakrishna
+#      use_sudo: yes
+
+#    - username: manish.dubey
+#      use_sudo: yes
+
